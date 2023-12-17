@@ -1,7 +1,8 @@
 ﻿using System.ComponentModel.DataAnnotations;
 namespace MultiplyWebAPI.DTOs
 {
-    public class PharmacyDrugDTO 
+    public class PharmacyDrugDTO2
+    
     {     
         [Required]
         public string ClinicName { get; set; }
