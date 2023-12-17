@@ -1,0 +1,80 @@
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\appsettings.Development.json
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\appsettings.json
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\MultiplyWebAPI.exe
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\MultiplyWebAPI.deps.json
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\MultiplyWebAPI.runtimeconfig.json
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\MultiplyWebAPI.dll
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\MultiplyWebAPI.pdb
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\System.Data.SqlClient.dll
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\MultiplyWebAPI.csproj.AssemblyReference.cache
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\MultiplyWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\MultiplyWebAPI.AssemblyInfoInputs.cache
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\MultiplyWebAPI.AssemblyInfo.cs
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\MultiplyWebAPI.csproj.CoreCompileInputs.cache
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\MultiplyWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\MultiplyWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\staticwebassets.build.json
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\staticwebassets.development.json
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\scopedcss\bundle\MultiplyWebAPI.styles.css
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\MultiplyWebAPI.csproj.CopyComplete
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\MultiplyWebAPI.dll
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\refint\MultiplyWebAPI.dll
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\MultiplyWebAPI.pdb
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\MultiplyWebAPI.genruntimeconfig.cache
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\ref\MultiplyWebAPI.dll
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Multiply\Client Proposals\Mitera Hospital\Master API\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\appsettings.Development.json
+D:\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\appsettings.json
+D:\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\MultiplyWebAPI.exe
+D:\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\MultiplyWebAPI.deps.json
+D:\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\MultiplyWebAPI.runtimeconfig.json
+D:\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\MultiplyWebAPI.dll
+D:\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\MultiplyWebAPI.pdb
+D:\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\System.Data.SqlClient.dll
+D:\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+D:\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+D:\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+D:\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MultiplyWebAPI\MultiplyWebAPI\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\MultiplyWebAPI.csproj.AssemblyReference.cache
+D:\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\MultiplyWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\MultiplyWebAPI.AssemblyInfoInputs.cache
+D:\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\MultiplyWebAPI.AssemblyInfo.cs
+D:\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\MultiplyWebAPI.csproj.CoreCompileInputs.cache
+D:\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\MultiplyWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\MultiplyWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\staticwebassets.build.json
+D:\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\staticwebassets.development.json
+D:\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\scopedcss\bundle\MultiplyWebAPI.styles.css
+D:\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\MultiplyWebAPI.csproj.CopyComplete
+D:\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\MultiplyWebAPI.dll
+D:\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\refint\MultiplyWebAPI.dll
+D:\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\MultiplyWebAPI.pdb
+D:\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\MultiplyWebAPI.genruntimeconfig.cache
+D:\MultiplyWebAPI\MultiplyWebAPI\obj\Release\net6.0\ref\MultiplyWebAPI.dll
