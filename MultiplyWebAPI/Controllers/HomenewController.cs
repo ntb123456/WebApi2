@@ -23,20 +23,7 @@ namespace MultiplyWebAPI.Controllers
             return View();
         }
 
-        // POST: HomenewController/Create
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
-        {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
-        }
+       
 
         // GET: HomenewController/Edit/5
         public ActionResult Edit(int id)
