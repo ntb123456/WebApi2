@@ -30,6 +30,10 @@ namespace MultiplyWebAPI.Controllers
         {
             return View();
         }
+        public ActionResult Edit2(int id)
+        {
+            return View();
+        }
 
         // POST: HomenewController/Edit/5
         [HttpPost]
